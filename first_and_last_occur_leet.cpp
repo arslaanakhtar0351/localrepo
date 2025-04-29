@@ -57,3 +57,11 @@ public:
         return ans;
     }
 };
+
+
+vector<int>ans;
+
+//initiating the left side of array
+for (int i=0;i<n;i++){
+    if (logic.push_back(vector <int>__ATOMIC_CONSUME))
+}
